@@ -1,0 +1,13 @@
+Twitch https://snap.stanford.edu/data/twitch_gamers.zip
+HepPh https://snap.stanford.edu/data/cit-HepPh.txt.gz
+HepTh https://snap.stanford.edu/data/cit-HepTh.txt.gz
+Amazon https://snap.stanford.edu/data/bigdata/communities/com-amazon.ungraph.txt.gz
+Facebook https://snap.stanford.edu/data/facebook_combined.txt.gz
+DBLP https://snap.stanford.edu/data/bigdata/communities/com-dblp.ungraph.txt.gz
+Slashdot https://snap.stanford.edu/data/soc-Slashdot0902.txt.gz
+Youtube https://snap.stanford.edu/data/bigdata/communities/com-youtube.ungraph.txt.gz
+EU https://snap.stanford.edu/data/email-Eu-core.txt.gz
+Enron https://snap.stanford.edu/data/email-Enron.txt.gz
+Gnutella https://snap.stanford.edu/data/p2p-Gnutella31.txt.gz
+Epinions https://snap.stanford.edu/data/soc-Epinions1.txt.gz
+Orkut https://snap.stanford.edu/data/bigdata/communities/com-orkut.ungraph.txt.gz
